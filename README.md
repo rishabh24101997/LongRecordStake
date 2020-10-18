@@ -1,1 +1,1 @@
-# LongRecordStake
+# ManifestApp
