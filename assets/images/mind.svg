@@ -1,0 +1,243 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+        width="380"
+        height="376"
+        viewBox="0 0 364 360">
+        <g fill="none" 
+         
+         >
+    <path
+            d="M0,180a182,180 0,1 0,364 0a182,180 0,1 0,-364 0z"
+            fill="#00BFA5"/>
+    <path
+            d="M252.93,185H107a73.52,73.52 0,0 0,-1.7 18.06c0.39,9.42 -1.18,15.31 -5.5,22.77s-14.56,14.54 -11.38,20.41c3.93,7.26 11,3.93 12.17,11.38s-4.32,27.48 12.56,29c9.51,0.88 21.65,3.53 25.91,11.78S142.62,322 142.62,322H221s0.68,-30.38 11.14,-45.54C243.63,259.79 265.49,232.5 252.93,185Z"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M264.14,38.25 L254,183.14s43,-8.66 45.28,-72.2C301.54,49.19 264.14,38.25 264.14,38.25Z"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M113.67,193h132s8.13,12.07 -4.72,19.42c0,0 8.66,15 -6,23.35 0,0 2.1,13.38 -14.69,14.17 0,0 -6.3,9.18 -19.68,5.25 0,0 -6.91,7.08 -19.59,7.08s-17.67,-6.82 -17.67,-6.82 -14.69,4.2 -21.52,-4.46c0,0 -15,0.52 -14.43,-11.81 0,0 -19.16,-5.51 -10,-23.62C117.34,215.57 104.75,207.17 113.67,193Z"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M117.6,185s2.36,-5.77 8.13,-7.61 12.86,-0.52 12.6,7.61H128s-1.18,-2.3 0.79,-3.38"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M156.7,184.6s8.25,-8 -1,-16c-11.22,-9.71 -25.82,5.87 -15,13.79 6.76,4.93 11.94,-4.68 5.51,-6.92"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M155.65,168.55s3.15,-7.61 12.86,-7.08A12.06,12.06 0,0 1,179.33 178c-2.69,6.56 -10.48,6.6 -10.66,2.39"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M173.76,172.13a8.2,8.2 0,0 1,-4.9 1.4"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M167.91,166.86a52.4,52.4 0,0 1,0.76 13.53"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M202,169.08a11,11 0,0 0,-10.39 -6.56c-9.22,0.05 -14.92,9.88 -9.18,17.87 5.25,7.32 15.48,4.17 15.48,-2.39 0,-9 -9.45,-9.31 -10.23,-2.29"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M203.41,183.14s-0.55,-6.24 5,-6.92c4.2,-0.51 6,3.46 6,3.46"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M244.61,184.18c1.31,-3.79 -1.77,-15.19 -12.62,-15.1 -14.14,0.11 -13.88,14.06 -8.63,15.48"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M196.85,173.56s2.81,-4.56 11.21,-5.56c9.79,-1.17 12.82,7 12.82,7"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M228.86,176.22s5,1 2.36,8"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M235.68,175.71a5.14,5.14 0,0 1,-3.7 3.91"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M180,255L180,122"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M180.12,123.42S154.77,93.77 220,84.06C220,84.06 213.76,135.23 180.12,123.42Z"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M180.12,121.85c10.62,-20.47 38.25,-35.69 38.25,-35.69"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M171.93,146.66s17.46,-20.43 -27.5,-27.12C144.44,119.54 148.75,154.8 171.93,146.66Z"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M180.12,157.53l-8.18,-12c-7.32,-14.1 -26.35,-24.59 -26.35,-24.59"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M180.17,211.59s1.19,8.13 7.75,10.23 8.06,5.89 6,15.22a36.56,36.56 0,0 0,-0.79 10.5"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M203.4,241.24s-6.81,2.1 -9.43,-4.2"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M190.74,223a8.78,8.78 0,0 0,6.91 -5.1c2.09,-4.72 7.86,-2.62 7.86,-2.62"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M168.38,247.8a12.59,12.59 0,0 1,1.7 -10.76s6.3,-10 -3.94,-14.05c0,0 -0.59,-5.78 1.76,-9.83 3.36,-5.77 8.07,1.31 12.2,-10.23"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M166.15,232.84s-2.36,-5.8 0,-9.85"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M155.17,222.35s4.94,4.46 11.24,-0.79"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M123,126L123,143"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M131,135L115,134.85"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M212,132L212,153"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M222,142L201,141.81"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M170,68L170,90"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M181,79L159,78.8"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M134.06,155.62m-2.62,0a2.62,2.62 0,1 1,5.24 0a2.62,2.62 0,1 1,-5.24 0"
+            stroke-width="2.5"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M112,150L112,153"
+            stroke-width="2.46"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M112,158L112,161"
+            stroke-width="2.46"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M118,156L115,156"
+            stroke-width="2.46"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M110,156L107,156"
+            stroke-width="2.46"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M157,96L157,100"
+            stroke-width="2"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M157,105L157,109"
+            stroke-width="2"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M164,102L160,102"
+            stroke-width="2"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M155,102L151,102"
+            stroke-width="2"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M229.37,117.91L229.46,121.92"
+            stroke-width="2"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M229.58,127.28L229.67,131.29"
+            stroke-width="2"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M236.21,124.45L232.2,124.54"
+            stroke-width="2"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M226.84,124.66L222.83,124.75"
+            stroke-width="2"
+            fill="none"
+            stroke="#3a3a3a"/>
+    <path
+            d="M230.44,157.4m-3.02,0a3.02,3.02 0,1 1,6.04 0a3.02,3.02 0,1 1,-6.04 0"
+            stroke-width="3"
+            fill="none"
+            stroke="#3a3a3a"
+            stroke-linecap="round"/>
+    <path
+            d="M168.71,184.6s-0.79,-8.1 -8.63,-8.1"
+            stroke-width="4"
+            fill="none"
+            stroke="#3a3a3a"/>
+            </g>
+</svg>
